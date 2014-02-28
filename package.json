@@ -1,0 +1,20 @@
+{
+  "name": "llcoolj",
+  "version": "0.0.0",
+  "description": "Linked List in JavaScript",
+  "main": "llcoolj.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "Linked",
+    "list"
+  ],
+  "author": "Joel Kemp <joel@mrjoelkemp.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "expect.js": "~0.3.1"
+  }
+}
